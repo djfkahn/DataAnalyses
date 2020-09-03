@@ -1,0 +1,340 @@
+,date,holding,marketValue
+0,2019-12-31,Newmont Goldcorp Corp.,896765462.0
+1,2019-12-31,Amphenol Corp. Class A,807963791.0
+2,2019-12-31,ONEOK Inc.,787016807.0
+3,2019-12-31,WEC Energy Group Inc.,732058286.0
+4,2019-12-31,IHS Markit Ltd.,722329137.0
+5,2019-12-31,TransDigm Group Inc.,717015040.0
+6,2019-12-31,KLA Corp.,707624426.0
+7,2019-12-31,Motorola Solutions Inc.,695028081.0
+8,2019-12-31,Eversource Energy,693034325.0
+9,2019-12-31,SBA Communications Corp. Class A,682907822.0
+10,2019-12-31,Lululemon Athletica Inc.,682273247.0
+11,2019-12-31,FirstEnergy Corp.,661404933.0
+12,2019-12-31,Willis Towers Watson plc,653611120.0
+13,2019-12-31,Advanced Micro Devices Inc.,642678555.0
+14,2019-12-31,IQVIA Holdings Inc.,641766401.0
+15,2019-12-31,Microchip Technology Inc.,630126525.0
+16,2019-12-31,Digital Realty Trust Inc.,629243159.0
+17,2019-12-31,FleetCor Technologies Inc.,628526354.0
+18,2019-12-31,DTE Energy Co.,626023790.0
+19,2019-12-31,Centene Corp.,622228980.0
+20,2019-12-31,Xilinx Inc.,619048256.0
+21,2019-12-31,Verisk Analytics Inc. Class A,615982698.0
+22,2019-12-31,Realty Income Corp.,604436769.0
+23,2019-12-31,Waste Connections Inc.,601585526.0
+24,2019-12-31,Entergy Corp.,600074007.0
+25,2019-12-31,Twitter Inc.,595140360.0
+26,2019-12-31,Cintas Corp.,595104324.0
+27,2019-12-31,Chipotle Mexican Grill Inc. Class A,585826320.0
+28,2019-12-31,Splunk Inc.,581904975.0
+29,2019-12-31,AMETEK Inc.,574306311.0
+30,2019-12-31,IDEXX Laboratories Inc.,563909452.0
+31,2019-12-31,Royal Caribbean Cruises Ltd.,563800581.0
+32,2019-12-31,ResMed Inc.,560998839.0
+33,2019-12-31,Dollar Tree Inc.,560424764.0
+34,2019-12-31,American Water Works Co. Inc.,558764429.0
+35,2019-12-31,CoStar Group Inc.,551726533.0
+36,2019-12-31,Hartford Financial Services Group Inc.,551683672.0
+37,2019-12-31,Cerner Corp.,551311551.0
+38,2019-12-31,ANSYS Inc.,545740604.0
+39,2019-12-31,Palo Alto Networks Inc.,541265600.0
+40,2019-12-31,M&T Bank Corp.,535766138.0
+41,2019-12-31,Fastenal Co.,532952833.0
+42,2019-12-31,Ball Corp.,532660017.0
+43,2019-12-31,McCormick & Co. Inc./MD,528132038.0
+44,2019-12-31,Synopsys Inc.,526797389.0
+45,2019-12-31,MSCI Inc. Class A,522979735.0
+46,2019-12-31,Skyworks Solutions Inc.,518012262.0
+47,2019-12-31,CDW Corp./DE,516750411.0
+48,2019-12-31,Halliburton Co.,513310542.0
+49,2019-12-31,VeriSign Inc.,512824756.0
+50,2019-12-31,DexCom Inc.,503501857.0
+51,2019-12-31,KeyCorp,501996062.0
+52,2019-12-31,Essex Property Trust Inc.,500792301.0
+53,2019-12-31,Align Technology Inc.,497782525.0
+54,2019-12-31,Best Buy Co. Inc.,495268649.0
+55,2019-12-31,IAC/InterActiveCorp,493741500.0
+56,2019-12-31,CBRE Group Inc. Class A,490827481.0
+57,2019-12-31,Cadence Design Systems Inc.,489972426.0
+58,2019-12-31,Mettler-Toledo International Inc.,486563841.0
+59,2019-12-31,Clorox Co.,485260406.0
+60,2019-12-31,Keysight Technologies Inc.,483931342.0
+61,2019-12-31,Vulcan Materials Co.,479975114.0
+62,2019-12-31,Copart Inc.,478635772.0
+63,2019-12-31,Ameren Corp.,475934669.0
+64,2019-12-31,Alexandria Real Estate Equities Inc.,468420258.0
+65,2019-12-31,Veeva Systems Inc. Class A,465230559.0
+66,2019-12-31,DR Horton Inc.,465020579.0
+67,2019-12-31,Hess Corp.,461377032.0
+68,2019-12-31,Liberty Broadband Corp.,458327941.0
+69,2019-12-31,Freeport-McMoRan Inc.,454791746.0
+70,2019-12-31,International Paper Co.,454204827.0
+71,2019-12-31,Western Digital Corp.,451000429.0
+72,2019-12-31,CMS Energy Corp.,448593520.0
+73,2019-12-31,Arthur J Gallagher & Co.,446830588.0
+74,2019-12-31,Marvell Technology Group Ltd.,445544159.0
+75,2019-12-31,Citizens Financial Group Inc.,444586787.0
+76,2019-12-31,Omnicom Group Inc.,444527654.0
+77,2019-12-31,Concho Resources Inc.,443332495.0
+78,2019-12-31,Healthpeak Properties Inc.,442755603.0
+79,2019-12-31,Martin Marietta Materials Inc.,440234176.0
+80,2019-12-31,Teleflex Inc.,438936569.0
+81,2019-12-31,Church & Dwight Co. Inc.,434197847.0
+82,2019-12-31,Cincinnati Financial Corp.,432162294.0
+83,2019-12-31,Nucor Corp.,429171244.0
+84,2019-12-31,Equifax Inc.,426566055.0
+85,2019-12-31,Dover Corp.,421011816.0
+86,2019-12-31,Conagra Brands Inc.,419003337.0
+87,2019-12-31,Maxim Integrated Products Inc.,418695187.0
+88,2019-12-31,WellCare Health Plans Inc.,418040907.0
+89,2019-12-31,Regions Financial Corp.,417092590.0
+90,2019-12-31,Arch Capital Group Ltd.,415371936.0
+91,2019-12-31,Laboratory Corp. of America Holdings,413179624.0
+92,2019-12-31,Invitation Homes Inc.,405797426.0
+93,2019-12-31,TransUnion,405210879.0
+94,2019-12-31,Incyte Corp.,402067909.0
+95,2019-12-31,Lennar Corp. Class A,400696165.0
+96,2019-12-31,Cooper Cos. Inc.,400625818.0
+97,2019-12-31,Huntington Bancshares Inc./OH,391626771.0
+98,2019-12-31,WW Grainger Inc.,390508548.0
+99,2019-12-31,Fortinet Inc.,390341357.0
+100,2019-12-31,MGM Resorts International,387802706.0
+101,2019-12-31,Principal Financial Group Inc.,384460560.0
+102,2019-12-31,Tiffany & Co.,383646869.0
+103,2019-12-31,KKR & Co. Inc. Class A,383546179.0
+104,2019-12-31,BioMarin Pharmaceutical Inc.,381926216.0
+105,2019-12-31,Kansas City Southern,381825429.0
+106,2019-12-31,Snap Inc.,381051617.0
+107,2019-12-31,Expedia Group Inc.,379179825.0
+108,2019-12-31,Waters Corp.,378747585.0
+109,2019-12-31,Mid-America Apartment Communities Inc.,378319130.0
+110,2019-12-31,Markel Corp.,377842835.0
+111,2019-12-31,Diamondback Energy Inc.,375388872.0
+112,2019-12-31,Celanese Corp. Class A,374330478.0
+113,2019-12-31,Evergy Inc.,373185834.0
+114,2019-12-31,Cardinal Health Inc.,372760488.0
+115,2019-12-31,Genuine Parts Co.,368731022.0
+116,2019-12-31,AvalonBay Communities Inc.,368526570.0
+117,2019-12-31,CarMax Inc.,362541663.0
+118,2019-12-31,CenturyLink Inc.,362082731.0
+119,2019-12-31,Quest Diagnostics Inc.,361846809.0
+120,2019-12-31,NortonLifeLock Inc.,360011176.0
+121,2019-12-31,NetApp Inc.,358050110.0
+122,2019-12-31,First Republic Bank/CA,357431357.0
+123,2019-12-31,AutoZone Inc.,357072538.0
+124,2019-12-31,Xylem Inc./NY,356755999.0
+125,2019-12-31,Broadridge Financial Solutions Inc.,356218201.0
+126,2019-12-31,Westinghouse Air Brake Technologies Corp.,356212124.0
+127,2019-12-31,Ulta Beauty Inc.,355966227.0
+128,2019-12-31,Cheniere Energy Inc.,352204675.0
+129,2019-12-31,Hologic Inc.,352162506.0
+130,2019-12-31,Sun Communities Inc.,349897059.0
+131,2019-12-31,Garmin Ltd.,349796014.0
+132,2019-12-31,Take-Two Interactive Software Inc.,349037034.0
+133,2019-12-31,WP Carey Inc.,346695981.0
+134,2019-12-31,International Flavors & Fragrances Inc.,346503466.0
+135,2019-12-31,Citrix Systems Inc.,345402264.0
+136,2019-12-31,Masco Corp.,345188615.0
+137,2019-12-31,Seattle Genetics Inc.,344734417.0
+138,2019-12-31,UDR Inc.,344357161.0
+139,2019-12-31,CenterPoint Energy Inc.,344276714.0
+140,2019-12-31,MarketAxess Holdings Inc.,343553652.0
+141,2019-12-31,Old Dominion Freight Line Inc.,342899628.0
+142,2019-12-31,Exact Sciences Corp.,342427083.0
+143,2019-12-31,Hasbro Inc.,341800956.0
+144,2019-12-31,Qorvo Inc.,339622200.0
+145,2019-12-31,Annaly Capital Management Inc.,338632138.0
+146,2019-12-31,Tyson Foods Inc. Class A,337933197.0
+147,2019-12-31,NVR Inc.,336286411.0
+148,2019-12-31,Darden Restaurants Inc.,336192945.0
+149,2019-12-31,Alliant Energy Corp.,335953659.0
+150,2019-12-31,Host Hotels & Resorts Inc.,335323787.0
+151,2019-12-31,Cboe Global Markets Inc.,334737120.0
+152,2019-12-31,Seagate Technology plc,334267906.0
+153,2019-12-31,Expeditors International of Washington Inc.,334246496.0
+154,2019-12-31,Loews Corp.,333719820.0
+155,2019-12-31,Akamai Technologies Inc.,333565526.0
+156,2019-12-31,AES Corp./VA,332803441.0
+157,2019-12-31,SS&C Technologies Holdings Inc.,331632820.0
+158,2019-12-31,Paycom Software Inc.,330463106.0
+159,2019-12-31,Gartner Inc.,329291821.0
+160,2019-12-31,Extra Space Storage Inc.,326973221.0
+161,2019-12-31,FMC Corp.,325940849.0
+162,2019-12-31,SVB Financial Group,325420893.0
+163,2019-12-31,Varian Medical Systems Inc.,324672777.0
+164,2019-12-31,Alnylam Pharmaceuticals Inc.,322878980.0
+165,2019-12-31,Duke Realty Corp.,320620637.0
+166,2019-12-31,Wynn Resorts Ltd.,318641103.0
+167,2019-12-31,Dentsply Sirona Inc.,316583587.0
+168,2019-12-31,Lamb Weston Holdings Inc.,316044196.0
+169,2019-12-31,United Rentals Inc.,315138765.0
+170,2019-12-31,Norwegian Cruise Line Holdings Ltd.,313061128.0
+171,2019-12-31,Okta Inc.,309235441.0
+172,2019-12-31,Nasdaq Inc.,309124015.0
+173,2019-12-31,AmerisourceBergen Corp. Class A,308210083.0
+174,2019-12-31,Twilio Inc. Class A,307973255.0
+175,2019-12-31,Aptiv plc,304906598.0
+176,2019-12-31,Domino's Pizza Inc.,302207079.0
+177,2019-12-31,Arconic Inc.,301590432.0
+178,2019-12-31,Jacobs Engineering Group Inc.,300021331.0
+179,2019-12-31,Fidelity National Financial Inc.,298760086.0
+180,2019-12-31,Noble Energy Inc.,298752170.0
+181,2019-12-31,Lincoln National Corp.,294773007.0
+182,2019-12-31,Rockwell Automation Inc.,294421546.0
+183,2019-12-31,Roku Inc.,292865812.0
+184,2019-12-31,Ally Financial Inc.,291981242.0
+185,2019-12-31,GoDaddy Inc. Class A,291610649.0
+186,2019-12-31,Vornado Realty Trust,287340648.0
+187,2019-12-31,American Airlines Group Inc.,285036352.0
+188,2019-12-31,JM Smucker Co.,284334983.0
+189,2019-12-31,Everest Re Group Ltd.,284119231.0
+190,2019-12-31,Weyerhaeuser Co.,282828345.0
+191,2019-12-31,Hormel Foods Corp.,282717271.0
+192,2019-12-31,Western Union Co.,282499355.0
+193,2019-12-31,ViacomCBS Inc. Class B,281561033.0
+194,2019-12-31,Raymond James Financial Inc.,280885792.0
+195,2019-12-31,Westrock Co.,278807596.0
+196,2019-12-31,Corteva Inc.,278444677.0
+197,2019-12-31,Tractor Supply Co.,278241894.0
+198,2019-12-31,Universal Health Services Inc. Class B,275402744.0
+199,2019-12-31,Alleghany Corp.,274936942.0
+200,2019-12-31,Avery Dennison Corp.,274734559.0
+201,2019-12-31,Arista Networks Inc.,273538829.0
+202,2019-12-31,Marathon Oil Corp.,273175755.0
+203,2019-12-31,Square Inc.,273076402.0
+204,2019-12-31,Aramark,272285828.0
+205,2019-12-31,Packaging Corp. of America,266643150.0
+206,2019-12-31,CH Robinson Worldwide Inc.,266131413.0
+207,2019-12-31,Regency Centers Corp.,265849273.0
+208,2019-12-31,Ameriprise Financial Inc.,265361274.0
+209,2019-12-31,Advance Auto Parts Inc.,265075691.0
+210,2019-12-31,Discovery Communications Inc.,263159495.0
+211,2019-12-31,NiSource Inc.,261504127.0
+212,2019-12-31,Trimble Inc.,261149579.0
+213,2019-12-31,CF Industries Holdings Inc.,261090442.0
+214,2019-12-31,AXA Equitable Holdings Inc.,260895858.0
+215,2019-12-31,Mylan NV,260892010.0
+216,2019-12-31,Comerica Inc.,260866211.0
+217,2019-12-31,E*TRADE Financial Corp.,258500974.0
+218,2019-12-31,Camden Property Trust,258499069.0
+219,2019-12-31,Huntington Ingalls Industries Inc.,258135450.0
+220,2019-12-31,Hewlett Packard Enterprise Co.,258121976.0
+221,2019-12-31,Globe Life Inc.,257987642.0
+222,2019-12-31,Reinsurance Group of America Inc. Class A,256750689.0
+223,2019-12-31,FactSet Research Systems Inc.,256114082.0
+224,2019-12-31,Textron Inc.,256042534.0
+225,2019-12-31,Elanco Animal Health Inc.,255644230.0
+226,2019-12-31,Pinnacle West Capital Corp.,254341735.0
+227,2019-12-31,PulteGroup Inc.,251226042.0
+228,2019-12-31,JB Hunt Transport Services Inc.,250381225.0
+229,2019-12-31,Live Nation Entertainment Inc.,249624341.0
+230,2019-12-31,VEREIT Inc.,248047735.0
+231,2019-12-31,LKQ Corp.,247594208.0
+232,2019-12-31,Crown Holdings Inc.,247238517.0
+233,2019-12-31,Henry Schein Inc.,246264721.0
+234,2019-12-31,Federal Realty Investment Trust,244561640.0
+235,2019-12-31,Eastman Chemical Co.,243932399.0
+236,2019-12-31,National Oilwell Varco Inc.,243008046.0
+237,2019-12-31,Apache Corp.,241971030.0
+238,2019-12-31,AGNC Investment Corp.,240549642.0
+239,2019-12-31,WR Berkley Corp.,239591950.0
+240,2019-12-31,Molson Coors Brewing Co. Class B,239408115.0
+241,2019-12-31,Targa Resources Corp.,238940141.0
+242,2019-12-31,United Airlines Holdings Inc.,238348549.0
+243,2019-12-31,Devon Energy Corp.,238313471.0
+244,2019-12-31,Whirlpool Corp.,234456299.0
+245,2019-12-31,Snap-on Inc.,233656808.0
+246,2019-12-31,Black Knight Inc.,230469897.0
+247,2019-12-31,Iron Mountain Inc.,230052798.0
+248,2019-12-31,Fortune Brands Home & Security Inc.,228480259.0
+249,2019-12-31,Vistra Energy Corp.,225489001.0
+250,2019-12-31,BorgWarner Inc.,225285007.0
+251,2019-12-31,Interpublic Group of Cos. Inc.,225225809.0
+252,2019-12-31,OGE Energy Corp.,223915166.0
+253,2019-12-31,SEI Investments Co.,222727928.0
+254,2019-12-31,Zions Bancorp NA,222531145.0
+255,2019-12-31,Lyft Inc. Class A,216922757.0
+256,2019-12-31,Altice USA Inc. Class A,216852049.0
+257,2019-12-31,Sensata Technologies Holding plc,215160228.0
+258,2019-12-31,F5 Networks Inc.,213507533.0
+259,2019-12-31,DISH Network Corp. Class A,213251244.0
+260,2019-12-31,Alaska Air Group Inc.,209754474.0
+261,2019-12-31,Baker Hughes Co. Class A,209422756.0
+262,2019-12-31,Lear Corp.,209286801.0
+263,2019-12-31,Kimco Realty Corp.,208902785.0
+264,2019-12-31,Juniper Networks Inc.,207258888.0
+265,2019-12-31,Voya Financial Inc.,206801779.0
+266,2019-12-31,Zayo Group Holdings Inc.,206567811.0
+267,2019-12-31,Kohl's Corp.,203875916.0
+268,2019-12-31,Hubbell Inc. Class B,202065210.0
+269,2019-12-31,Jazz Pharmaceuticals plc,201806556.0
+270,2019-12-31,Mohawk Industries Inc.,196491531.0
+271,2019-12-31,PVH Corp.,196060482.0
+272,2019-12-31,Albemarle Corp.,194760503.0
+273,2019-12-31,Bunge Ltd.,194741085.0
+274,2019-12-31,Liberty Media Corp-Liberty SiriusXM Class C,190707669.0
+275,2019-12-31,Burlington Stores Inc.,190030853.0
+276,2019-12-31,HEICO Corp. Class A,187407598.0
+277,2019-12-31,Tapestry Inc.,187146934.0
+278,2019-12-31,Mosaic Co.,185474514.0
+279,2019-12-31,HollyFrontier Corp.,185257474.0
+280,2019-12-31,SL Green Realty Corp.,185091801.0
+281,2019-12-31,Newell Brands Inc.,184144706.0
+282,2019-12-31,ABIOMED Inc.,184035221.0
+283,2019-12-31,Nielsen Holdings plc,181543915.0
+284,2019-12-31,Franklin Resources Inc.,179040001.0
+285,2019-12-31,News Corp. Class A,176869752.0
+286,2019-12-31,WABCO Holdings Inc.,175031990.0
+287,2019-12-31,Xerox Holdings Corp.,170391792.0
+288,2019-12-31,Athene Holding Ltd. Class A,168723464.0
+289,2019-12-31,Perrigo Co. plc,167970837.0
+290,2019-12-31,Invesco Ltd.,164134134.0
+291,2019-12-31,DaVita Inc.,159036589.0
+292,2019-12-31,RingCentral Inc. Class A,158720663.0
+293,2019-12-31,Campbell Soup Co.,144492367.0
+294,2019-12-31,Pinterest Inc. Class A,143565280.0
+295,2019-12-31,Wayfair Inc.,141935483.0
+296,2019-12-31,Jack Henry & Associates Inc.,141039879.0
+297,2019-12-31,Ralph Lauren Corp. Class A,139289596.0
+298,2019-12-31,Slack Technologies Inc. Class A,132064268.0
+299,2019-12-31,IPG Photonics Corp.,125638249.0
+300,2019-12-31,Rollins Inc.,122419093.0
+301,2019-12-31,Vail Resorts Inc.,121630024.0
+302,2019-12-31,DXC Technology Co.,120928383.0
+303,2019-12-31,NRG Energy Inc.,119544627.0
+304,2019-12-31,Cognex Corp.,114316444.0
+305,2019-12-31,Discovery Communications Inc. Class A,113439615.0
+306,2019-12-31,Jones Lang LaSalle Inc.,112707607.0
+307,2019-12-31,HEICO Corp.,109565736.0
+308,2019-12-31,Match Group Inc.,108438489.0
+309,2019-12-31,Under Armour Inc. Class A,101599423.0
+310,2019-12-31,Liberty Media Corp-Liberty SiriusXM Class A,100402422.0
+311,2019-12-31,Dropbox Inc. Class A,97190943.0
+312,2019-12-31,Pentair plc,96885880.0
+313,2019-12-31,Reliance Steel & Aluminum Co.,95332313.0
+314,2019-12-31,Under Armour Inc. Class C,94525197.0
+315,2019-12-31,People's United Financial Inc.,94077095.0
+316,2019-12-31,XPO Logistics Inc.,92421156.0
+317,2019-12-31,Cabot Oil & Gas Corp.,89336943.0
+318,2019-12-31,FLIR Systems Inc.,87826573.0
+319,2019-12-31,Robert Half International Inc.,87477338.0
+320,2019-12-31,Coty Inc. Class A,85716461.0
+321,2019-12-31,AO Smith Corp.,82061091.0
+322,2019-12-31,Axalta Coating Systems Ltd.,80769730.0
+323,2019-12-31,Liberty Broadband Corp. Class A,79723009.0
+324,2019-12-31,Avangrid Inc.,79120679.0
+325,2019-12-31,Hyatt Hotels Corp. Class A,78324904.0
+326,2019-12-31,Zoom Video Communications Inc. Class A,77871100.0
+327,2019-12-31,Westlake Chemical Corp.,67843608.0
+328,2019-12-31,Continental Resources Inc./OK,64012101.0
+329,2019-12-31,Carvana Co. Class A,58196403.0
+330,2019-12-31,Interactive Brokers Group Inc.,42699258.0
+331,2019-12-31,Chewy Inc.,31127237.0
+332,2019-12-31,Datadog Inc. Class A,26213880.0
+333,2019-12-31,Crowdstrike Holdings Inc. Class A,25919583.0
+334,2019-12-31,Levi Strauss & Co. Class A,21514831.0
+335,2019-12-31,Lennar Corp. Class B,9520251.0
+336,2019-12-31,ViacomCBS Inc. Class A,6668086.0
+337,2019-12-31,News Corp. Class B,5167272.0
+338,2019-12-31,Alliance Data Systems Corp.,23338.0
